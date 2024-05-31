@@ -4,6 +4,10 @@
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
+	"author": {
+		"name": "Aurimas",
+		"email": "aurimas.ragulis@ktu.edu"
+	},
 	"scripts": {
 		"start": "node server.js"
 	},
